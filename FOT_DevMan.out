@@ -1,0 +1,69 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Scilab}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Optimization Libraries}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Downloading the toolbox}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Prerequisites}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Purpose of document}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Toolbox Structure}{}% 7
+\BOOKMARK [0][-]{chapter.3}{Builder files}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{builder.sce}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{buildmacros.sce}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.4}{builder\137gateway.sce}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.4.1}{builder\137gateway\137cpp.sce}{section.3.4}% 13
+\BOOKMARK [1][-]{section.3.5}{builder\137help.sce}{chapter.3}% 14
+\BOOKMARK [0][-]{chapter.4}{etc directory}{}% 15
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.2}{FOSSEE\137Optimization\137Toolbox.start}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.3}{FOSSEE\137Optimization\137Toolbox.quit}{chapter.4}% 18
+\BOOKMARK [0][-]{chapter.5}{macros directory}{}% 19
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.2}{Outline of a macros file}{chapter.5}% 21
+\BOOKMARK [2][-]{subsection.5.2.1}{Commented Help page}{section.5.2}% 22
+\BOOKMARK [2][-]{subsection.5.2.2}{Input retrieval}{section.5.2}% 23
+\BOOKMARK [2][-]{subsection.5.2.3}{Error checks}{section.5.2}% 24
+\BOOKMARK [2][-]{subsection.5.2.4}{Input modifications}{section.5.2}% 25
+\BOOKMARK [2][-]{subsection.5.2.5}{Call to the C++ library}{section.5.2}% 26
+\BOOKMARK [2][-]{subsection.5.2.6}{Output retrieval,checks and modifications}{section.5.2}% 27
+\BOOKMARK [0][-]{chapter.6}{sci\137gateway files}{}% 28
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 29
+\BOOKMARK [1][-]{section.6.2}{Basic Scilab API Functions}{chapter.6}% 30
+\BOOKMARK [1][-]{section.6.3}{Outline of a sci\137gateway file}{chapter.6}% 31
+\BOOKMARK [2][-]{subsection.6.3.1}{Variable initialization}{section.6.3}% 32
+\BOOKMARK [2][-]{subsection.6.3.2}{Input retrieval}{section.6.3}% 33
+\BOOKMARK [2][-]{subsection.6.3.3}{Input modifications}{section.6.3}% 34
+\BOOKMARK [2][-]{subsection.6.3.4}{Calling the library}{section.6.3}% 35
+\BOOKMARK [2][-]{subsection.6.3.5}{Output management}{section.6.3}% 36
+\BOOKMARK [2][-]{subsection.6.3.6}{Returning output to Scilab}{section.6.3}% 37
+\BOOKMARK [0][-]{chapter.7}{Solver Libraries}{}% 38
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 39
+\BOOKMARK [1][-]{section.7.2}{Prerequisites}{chapter.7}% 40
+\BOOKMARK [1][-]{section.7.3}{Compiling libraries}{chapter.7}% 41
+\BOOKMARK [2][-]{subsection.7.3.1}{ecos}{section.7.3}% 42
+\BOOKMARK [2][-]{subsection.7.3.2}{CLP}{section.7.3}% 43
+\BOOKMARK [2][-]{subsection.7.3.3}{Symphony}{section.7.3}% 44
+\BOOKMARK [2][-]{subsection.7.3.4}{Ipopt}{section.7.3}% 45
+\BOOKMARK [2][-]{subsection.7.3.5}{CBC}{section.7.3}% 46
+\BOOKMARK [2][-]{subsection.7.3.6}{Bonmin}{section.7.3}% 47
+\BOOKMARK [1][-]{section.7.4}{Shared libraries}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.5}{Header files}{chapter.7}% 49
+\BOOKMARK [0][-]{chapter.8}{Help Files}{}% 50
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 51
+\BOOKMARK [1][-]{section.8.2}{Basic help document structure}{chapter.8}% 52
+\BOOKMARK [1][-]{section.8.3}{Methods of writing help documents}{chapter.8}% 53
+\BOOKMARK [2][-]{subsection.8.3.1}{Using help\137from\137sci}{section.8.3}% 54
+\BOOKMARK [2][-]{subsection.8.3.2}{Directly via XML}{section.8.3}% 55
+\BOOKMARK [1][-]{section.8.4}{Style Preferences}{chapter.8}% 56
+\BOOKMARK [2][-]{subsection.8.4.1}{Using LaTeX}{section.8.4}% 57
+\BOOKMARK [1][-]{section.8.5}{Additional Notes}{chapter.8}% 58
+\BOOKMARK [2][-]{subsection.8.5.1}{Problems faced while using LaTeX}{section.8.5}% 59
+\BOOKMARK [0][-]{Appendix.1.A}{Appendix Codes}{}% 60
+\BOOKMARK [1][-]{section.1.A.1}{FOSSEE\137Optimization\137Toolbox.start}{Appendix.1.A}% 61
+\BOOKMARK [1][-]{section.1.A.2}{FOSSEE\137Optimization\137Toolbox.quit}{Appendix.1.A}% 62
+\BOOKMARK [0][-]{Appendix.1.B}{Appendix Tutorial}{}% 63
+\BOOKMARK [1][-]{section.1.B.1}{Toolbox Tutorial}{Appendix.1.B}% 64
+\BOOKMARK [1][-]{section.1.B.2}{Help Tutorial}{Appendix.1.B}% 65
+\BOOKMARK [2][-]{subsection.1.B.2.1}{Introduction}{section.1.B.2}% 66
+\BOOKMARK [2][-]{subsection.1.B.2.2}{Using help\137from\137sci}{section.1.B.2}% 67
+\BOOKMARK [2][-]{subsection.1.B.2.3}{Modifying the XML}{section.1.B.2}% 68
+\BOOKMARK [0][-]{Appendix.1.C}{Appendix Assignments}{}% 69
